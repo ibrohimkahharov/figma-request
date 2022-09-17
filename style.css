@@ -1,0 +1,856 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.egh{
+    text-align: center;
+}
+.kok{
+width: 100%;
+height: 50px;
+background-color: dodgerblue;
+}
+.lorem{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content:space-between;
+}
+.item{
+    margin: 30px;
+    list-style: none;
+}
+.shop{
+    padding-top: 30px;
+    margin-right: 50px;
+    width: 40px;
+    height: 40px;
+}
+.bir{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(105, 105, 105, 0.082);
+}
+
+
+.bir_bir{
+    padding-top: 10%;
+    margin-left: 200px;
+    width: 30%;
+}
+.lore{
+    margin-left: 200px;
+    width: 30%;
+}
+.bir_rasm img{
+    width: 25%;
+    height: 60%;
+    margin-left: 650px;
+    transform: translateY(-250px);
+
+}
+.btn{
+    margin-left: 230px;
+margin-top: 30px;
+background-color: dodgerblue;
+width: 100px;
+height: 30px;
+border: none;
+}
+.ikki{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(375, 155, 155, 0.182);
+    margin-top: 10px;
+}
+.ikki_s{
+    padding-top: 10%;
+width: 270px;
+margin-left: 200px;
+}
+.p{
+    width: 270px;
+    margin-left: 200px;
+}
+.ikki img{
+    width: 40%;
+    height: 300px;
+    margin-left: 40%;
+transform: translateY(-250px
+);
+}
+.work{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+    .vor{
+        width: 33%;
+        margin: 3px;
+        height: 300px;
+    }
+    .vor img{
+        width: 200px;
+        margin-left :130px;
+        height: 150px;
+        border-radius: 50%;
+    }
+    h3{
+        text-align: center;
+    }
+    .plar{
+        text-align: center;
+    }
+    .par{
+        width: 270px;
+margin-left: 40%;
+
+
+    }
+    .uch{
+        width: 100%;
+        height: 400px;
+        margin-top: 30px;
+    }
+    .button{
+width: 100px;
+height: 30px;
+background-color: dodgerblue;
+    }
+    .buttn{
+        width: 100px;
+        height: 30px;
+    }
+    .tugash{
+        width: 100%;
+        background-color: rgba(105, 105, 105, 0.171);
+        transform: translateY(-300px);
+        display: flex;
+
+flex-wrap: wrap;
+    }
+    .gam{
+        width: 45%;
+        
+        margin: 30px;
+        height: 200px;
+        background-color: #fff;
+    }
+    .gam img{
+        width: 180px;
+        padding-left: 20px;
+        height: 160px;
+    }
+    h4{
+        text-align: center;
+        margin-left: 50px;
+        margin-top: -130px;
+
+
+    }
+    .gampi{
+        width: 300px;
+        margin-left: 200px;
+        margin-top: 30px;
+    }
+    .dream{
+        margin-left: 200px;
+        margin-top: 20px;
+        width: 100px;
+        border-radius: 5px;
+
+        height: 25px;
+        background-color: dodgerblue;
+    }
+    .drem{
+        width: 40px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .rrr{
+        margin: auto;
+        width: 100px;
+        height: 30px;
+        border-radius: 5px;
+        background-color: dodgerblue;
+    }
+    .tilfon{
+        transform: translateY(-240px);
+        width: 100%;
+        height: 450px;
+    }
+    .tilfon img{
+        width: 400px;
+        height: 500px;
+        margin-left: 10 0px;
+        margin-top: -300px;
+    }
+    .title{
+        margin-left: 40%;
+        padding-top: 30px;
+        width: 400px;
+        margin-bottom: 30px;
+    }
+    .parama{
+        width: 400px;
+        margin-left: 40%;
+    }
+    .bbb{
+        margin-left: 15%;
+        width: 100px;
+        height: 30px;
+        background-color: dodgerblue;
+        border: none;
+    }
+    .hamasi{
+        width: 60%;
+        margin: auto;
+    }
+    .aaa{
+        width: 100%;
+        height: 500px;
+        background-color: rgba(105, 105, 105, 0.171);
+        
+        display: flex;
+    }
+    .www{
+        width: 45%;
+        height: 440px;
+        margin: 30px;
+    }
+    .hasan{
+        padding-top: 30px;
+    }
+    .husan{
+        padding-top: 30px;
+    }
+    .www img{
+width: 100%;
+height: 440px;
+    }
+    .number{
+width: 170px;
+height: 30px;
+background-color: dodgerblue;
+border: none;
+}
+.buldi{
+    width: 100%;
+    height: 450px;
+    background-color: rgba(105, 105, 105, 0.171);
+        margin-top: 30px;
+        display: flex;
+}
+.endi{
+    width: 47%;
+    height: 380px;
+    margin: 15px auto;
+    background-color: dodgerblue;
+}
+.endi img{
+    width: 100%;
+    height: 380px;
+}
+.edi{
+    width: 300px;
+    margin: 40px auto;
+}
+.bn{
+    margin-left: 170px;
+    width: 100px;
+    height: 30px;
+    background-color: #fff;
+    border: none;
+}
+
+footer{
+    width: 100%;
+    height: 400px;
+    background: rgb(88, 75, 75);
+  
+}
+.footer_wrapper{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+}
+.footer_item{
+    width: 100%;
+    color: #fff;
+
+}
+.footer_item p{
+    width: 120px;
+    margin: auto;
+    margin-top: 40px;
+}
+.tag{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    color: #fff;
+}
+.tag p{
+    width: 30%;
+}
+
+
+
+
+
+@media screen and (max-width:1000px) {
+    body{
+        overflow-x: hidden;
+    }
+    .img{
+margin-left: 100px;
+    }
+    .ikki_s{
+        margin-left: 70px;
+    }
+    .p{
+        margin-left: 70px;
+    }
+    .vor img{
+        margin-left: 60px;
+    }
+    .button{
+margin-left: -170px;
+    }
+    .tugash{
+        display: flex;
+    }
+    .gam{
+width: 43%;
+    }
+    .gampi{
+        padding-top: -40px;
+    width: 40%;
+    
+    
+    
+    }
+    .dream{
+        margin-top: -10px;
+    }
+    .tilfon img{
+        margin-top: -400px;
+    }
+    }
+    
+
+
+    @media screen and (max-width:900px) {
+    
+.bir_bir{
+    margin-left: 50px;
+
+}
+
+.lore{
+    margin-left: 50px;
+}
+.bir_rasm{
+    width: 100%;
+    height: 460px;
+    margin-top: -50px;
+}
+.button{
+margin-left: -220px;
+
+
+}
+h4{
+    display: none;
+}
+.gampi{
+margin-top: -130px;
+
+}
+.tilfon img{
+    margin-top: -370px;
+}
+.title{
+    margin-left: 480px;
+}
+.parama{
+    margin-left: 480px;
+}
+
+
+
+    }
+    @media screen and (max-width:850px) {
+.gam{
+    width: 360px;
+
+}
+.tilfon img{
+margin-top: -320px;
+}
+.parama{
+width: 300px;
+}
+
+
+
+
+
+
+    }
+
+@media screen and (max-width:820px) {
+.gam{
+    width: 350px;
+    flex-wrap: wrap;
+}
+.tilfon img{
+    margin-top: -270px;
+}
+
+}
+    
+@media screen and (max-width:800px) {
+    .parama{
+        margin-left: 420px;
+        width: 350px;
+    }
+    .title{
+        margin-left: 420px;
+    }
+    .tilfon img{
+margin-top: -350px;
+    }
+    .hasan{
+        margin-top: -50px;
+    }
+    .gam{
+        width: 370px;
+        margin: 10px;
+        flex-wrap: wrap;
+    }
+    .button{
+        margin-left: -260px;
+    }
+    .parama{
+        width: 300px;
+    }
+}
+
+
+@media screen and (max-width:768px) {
+
+    .gam{
+        width: 350px;
+    }
+    .tilfon img{
+        margin-top: -300px;
+    } 
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:700px) {
+.wor{
+    display: none;
+}
+.bir_bir{
+    width: 70%;
+}
+.lore{
+    width: 70%;
+}
+.bir_rasm{
+    margin-top: 270px;
+    width: 300%;
+    margin-left: -1000px;
+    height: 350px;
+}
+.ikki_s{
+width: 70%;
+
+
+
+}
+.p{
+    width: 70%;
+
+}
+.img img{
+    margin-top: 280px;
+    height: 230px;
+    width: 100%;
+    margin-left: -50px;
+}
+.work{
+    justify-content: space-between;
+}
+.vor img{
+margin-left: 250px;
+
+}
+h3{
+    margin-left: 210px;
+    width: 270px;
+}
+.drem{
+    display: none;
+
+}
+.plar{
+    margin-left: 210px;
+    width: 270px;
+}
+.gam{
+    width: 330px;
+}
+.gampi{
+    display: none;
+}
+.dream{
+    margin-top: 130px;
+    margin-left: 180px;
+    display: none;
+}
+h4{
+        margin-left: 170px;
+}
+.par{
+margin-left: 220px;
+}
+.button{
+    margin-left: -320px;
+}
+.parama{
+    width: 300px;
+    margin-left: 380px;
+}
+.title{
+    margin-left: 380px;
+}
+.gam img{
+    width: 100%;
+}
+.tilfon img{
+    width: 350px;
+}
+    }
+
+    @media screen and (max-width:600px) {
+.bir_rasm{
+    margin-left: -870px;
+}
+.vor img{
+    margin-left: 200px;
+
+}
+h3{
+    margin-left: 170px;
+}
+.plar{
+    margin-left: 170px;
+}
+.par{
+    margin-left: 170px;
+}
+.button{
+    margin-left: -370px;
+}
+.gam {
+width: 270px;
+}
+.tilfon img{
+    margin-top: 10px;
+    height: 300px;
+    width: 90%;
+}
+.title{
+    width: 70%;
+    margin-left: 100px;
+}
+.parama{
+    width: 70%;
+    margin-left: 100px;
+}
+.hasan{
+    width: 200%;
+}
+.husan{
+    width: 200%;
+}
+.www img{
+    margin-top: 200px;
+    height: 250px;
+width: 200%;
+margin-left: -280px;
+
+
+}
+.buldi{
+    display: block;
+    width: 200%;
+    margin-left: -300px;
+    margin-bottom: 370px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+    
+    @media screen and (max-width:414px) {
+    .bir_bir{
+        width: 80%;
+    }
+    .lore{
+        width: 80%;
+    }
+    
+    .bir_rasm{
+        margin-left: -400px;
+        margin-top: 260px;
+        height:330px;
+    }
+    .img img{
+        height: 200px;
+        margin-top: 260px;
+        margin-left: -90px;
+        width: 370px;
+    
+    
+    }
+    .vor img{
+        margin-left: 100px;
+    }
+    h3{
+        margin-left: 70px;
+        width: 300px;
+    }
+    .plar{
+        margin-left: 70px;
+        width: 300px;
+    }
+    .par{
+        margin-left:80px;
+    }
+    .button{
+        margin-left: -470px;
+    }
+    .gam img{
+        width: 300px;
+    
+    }
+    h4{
+        display: none;
+    }
+    .gampi{
+        display: none;
+    
+    }
+    .dream{
+        display: none;
+    
+    }
+    .drem{
+        display: none;
+    
+    }
+    .tilfon img{
+        width: 300px;
+        height: 200px;
+    margin-top: 70px;
+    
+    
+    
+    }
+    .title{
+        margin-left: 50px;
+    }
+    .parama{
+        margin-left: 50px;
+    }
+    .hasan{
+        width: 200%;
+    }
+    .husan{
+        width: 200%;
+    }
+    .www img{
+        width: 300px;
+        height: 170px;
+        margin-top: 300px;
+        margin-left: -220px;
+    }
+    .buldi{
+        margin-bottom: 500px;
+        flex-direction: column;
+    }
+    .endi{
+        height: 400px;
+        width: 300px;
+    }
+    .footer_wrapper{
+        margin-top: -200px;
+    }
+    
+    
+    
+    
+    }
+    @media screen and (max-width:390px) {
+.bir_rasm img{
+margin-left: 430px;
+}
+
+    }
+
+
+
+@media screen and (max-width:375px) {
+
+    .kok{
+display: none;
+}
+
+.itm{
+    display: none;
+    width: 100%;
+}
+.bir_bir{
+    width: 80%;
+}
+.lore{
+    width: 80%;
+}
+.btn{
+    margin-left:140px ;
+
+}
+.bir_rasm{
+    width: 100%;
+    height: 300px;
+    margin-left: -470px;
+    margin-top: 270px;
+}
+.ikki img{
+    margin-top: 200px;
+    width: 570px;
+    height: 200px;
+    margin-left: -300px;
+}
+.work{
+    flex-direction: column;
+}
+.vor img{
+    margin-left: 70px;
+}
+h3{
+    width: 300px;
+margin-left: 40px;
+}
+.plar{
+    width: 300px;
+    margin-left: 40px;
+}
+.par{
+    margin-left: 60px;
+}
+.button{
+    margin-left: -480px;
+}
+.gam img{
+    padding-left: 70px;
+    width: 300px;
+}
+h4{
+    display: none;
+
+}
+.gampi{
+    display: none;
+}
+.dream{
+    display: none;
+
+}
+.drem{
+    display: none;
+    
+}
+.tilfon img{
+    height: 300px;
+    margin-top: 30px;
+}
+.title{
+    width: 300px;
+    margin-left: 50px;
+}
+.parama{
+    margin-left: 50px;
+}
+.hasan{
+    width: 330px;
+}
+.husan{
+width: 300px;
+}
+.www img{
+    height: 150px;
+    margin-top: 320px;
+    margin-left: -250px;
+    width: 350px;
+}
+.buldi{
+    flex-direction: column;
+    width: 100%;
+    margin-left: -20px;
+    
+    margin-bottom: 200px;
+}
+.endi{
+    width: 300px;
+    height: 500px;
+}
+.footer_wrapper{
+    flex-wrap: wrap;
+}
+.footer_item {
+    width: 50%;
+}
+.tag p{
+     width: 90%;
+     padding-top: 30px;
+}
+}
+
+
+
